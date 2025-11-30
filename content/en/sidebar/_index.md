@@ -1,7 +1,7 @@
 ---
 headless: true
 icon-use-flower-shape: false
-icon-path: "/icon.png"
+icon-path: "/ryopfp.png"
 links:
     - link: "https://www.x.com/leangphok"
       name: "twitter"

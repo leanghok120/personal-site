@@ -23,18 +23,6 @@
     <loc>http://localhost:1313/posts/write-your-own-bar/</loc>
     <lastmod>2025-09-06T21:05:11-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/meow/</loc>
-    <lastmod>2025-02-01T10:00:00-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/mysterious-meow/</loc>
-    <lastmod>2025-02-01T10:00:00-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/friends/</loc>
-    <lastmod>2025-01-29T21:05:11-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/rawr/</loc>
-    <lastmod>2025-01-29T21:05:11-03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/sidebar/bio/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
